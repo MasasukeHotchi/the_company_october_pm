@@ -25,6 +25,7 @@
                 </form>    
 
                 <p class="text-center small mt-3">Create An Account <a href="../Views/Register.php">Register</a></p>
+                <p>This is a sample application that is using OOP style of programming.</p>
             </div>
         </div>
     </div>
